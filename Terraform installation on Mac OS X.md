@@ -2,6 +2,7 @@ Terraform installation on Mac OS X using brews
 We can install terraform on Mac OS X using brew command. Brew must first be installed on OS.
 
 (base) Ravindra@ravindras-MacBook-Pro ~ % brew tap hashicorp/tap
+
 Running `brew update --auto-update`...
 ==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
   https://github.com/Homebrew/brew#donations
@@ -38,5 +39,6 @@ Removing: /Users/ravindra/Library/Caches/Homebrew/jenkins-lts--2.375.3... (92.6M
 Removing: /Users/ravindra/Library/Caches/Homebrew/libtiff--4.4.0_1... (1.2MB)
 
 (base) Ravindra@ravindras-MacBook-Pro ~ % terraform version
+
 Terraform v1.4.6
 on darwin_arm64
