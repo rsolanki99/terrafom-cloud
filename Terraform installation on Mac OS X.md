@@ -1,5 +1,5 @@
 
-# Terraform installation on Mac OS X using brews
+# Terraform installation on Mac OS X using brew
 
 We can install terraform on Mac OS X using brew command. Brew must first be installed on OS.
 
